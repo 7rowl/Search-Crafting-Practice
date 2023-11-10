@@ -3,7 +3,7 @@ Inspired by Semperz' and Fyroah's crafting practice map.
 
 Built specifically for search crafting, but can be used as regular crafting practice as well. 
 
-The main difference betweent his map and others, is that it gives you a goal item to craft in infinite loop of them, instead of set inventory and order how other practice maps work.
+The main difference betweent this map and others, is that it gives you a goal item to craft in infinite loop of them, instead of set inventory and order how other practice maps do.
 
 Contact me on Discord for suggestions / feedback @ 7rowl
 
